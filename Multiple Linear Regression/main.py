@@ -1,7 +1,5 @@
-import sys
-
 def main():
-    print(sys.executable)
+    print("Hello from multiple-linear-regression!")
 
 
 if __name__ == "__main__":
